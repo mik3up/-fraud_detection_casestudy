@@ -1,6 +1,11 @@
 # Fraud Case Study
 
-## <a href = "https://dsi-fraud-casestudy.s3.amazonaws.com/portfolio-results.html">DEMO WEBSITE</a>
+## Link: <a href = "https://dsi-fraud-casestudy.s3.amazonaws.com/portfolio-results.html">Website Demo</a>
+
+## Casestudy Premise
+You are a contract data scientist/consultant hired by a new e-commerce site to try to weed out fraudsters.  The company unfortunately does not have much data science expertise... so you must properly scope and present your solution to the manager before you embark on your analysis.  Also, you will need to build a sustainable software project that you can hand off to the companies engineers by deploying your model in the cloud.  Since others will potentially use/extend your code you **NEED** to properly encapsulate your code and leave plenty of comments.
+
+This data is real company data! <i>(so the data files are not included in this repo)</i>
 
 ## Step 1: EDA
 
